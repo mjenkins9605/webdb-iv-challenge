@@ -1,0 +1,13 @@
+{
+  "name": "webdb-iv-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mjenkins9605/webdb-iv-challenge.git",
+  "author": "Michael Jenkins <mjenkins9605@vidangel.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.17.0",
+    "sqlite3": "^4.0.8"
+  }
+}
