@@ -30,7 +30,7 @@ exports.seed = function(knex, Promise) {
         },
         {
           name: "Soft Shell Taco",
-          directions: "combine taco seasoning, lettuce, tomato, cheese, and a soft taco shell",
+          directions: "combine taco seasoning, lettuce, cheese, salsa, and a soft taco shell",
           dish_id: 6
         }
       ]);
